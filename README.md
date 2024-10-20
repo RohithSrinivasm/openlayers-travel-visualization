@@ -46,10 +46,12 @@ Visit http://localhost:port to view the application.
 Toggle Layers: Use the on-screen controls to switch between the base map and animated travel routes.
 Interact with the Map: Pan and zoom to explore different areas. Click on routes for more information (if implemented).
 Responsive Experience: The application adjusts seamlessly to different screen sizes.
+
 💻 Built With
 OpenLayers - A powerful open-source JavaScript library for displaying map data.
 HTML5, CSS3, JavaScript - Core web technologies for structure, styling, and interactivity.
 Node.js and npm - For managing dependencies and running the development server.
+
 📚 Project Structure
 index.html: The main HTML file.
 style.css: Stylesheet for styling the application.
