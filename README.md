@@ -22,25 +22,15 @@ Node.js and npm installed on your machine.
 A modern web browser (e.g., Chrome, Firefox, Edge, Safari).
 
 📦 Installation
-1.Clone the Repository
+1.Clone the Repository: git clone https://github.com/RohithSrinivasm/openlayers-travel-visualization.git
 
-git clone https://github.com/RohithSrinivasm/openlayers-travel-visualization.git
+2.Navigate to the Project Directory: cd openlayers-travel-visualization
 
-2.Navigate to the Project Directory
+3.Install Dependencies: npm install
 
-cd openlayers-travel-visualization
+4.Run the Application: npm start
 
-3.Install Dependencies
-
-npm install
-
-4.Run the Application
-
-npm start
-
-5.Open in Browser
-
-Visit http://localhost:port to view the application.
+5.Open in Browser: Visit http://localhost:port to view the application.
 
 🖥️ Usage
 Toggle Layers: Use the on-screen controls to switch between the base map and animated travel routes.
