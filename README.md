@@ -30,7 +30,7 @@ A modern web browser (e.g., Chrome, Firefox, Edge, Safari).
 
 4.Run the Application: npm start
 
-5.Open in Browser: Visit http://localhost:port to view the application.
+5.Open in Browser: Visit http://localhost:{port} to view the application.
 
 🖥️ Usage
 Toggle Layers: Use the on-screen controls to switch between the base map and animated travel routes.
