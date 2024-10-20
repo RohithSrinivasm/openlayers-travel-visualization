@@ -1,0 +1,40 @@
+@import "node_modules/ol/ol.css";
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Style for Controls */
+#controls {
+  position: absolute;
+  top: 60px;
+  left: 10px;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+}
+
+#controls h1 {
+  margin: 0;
+  font-size: 16px;
+  text-align: center;
+}
+
+#controls label {
+  margin-right: 10px;
+}
+
+.radio-buttons {
+  margin-top: 5px;  /* Adds space between radio buttons */
+}
