@@ -5,6 +5,7 @@ An interactive web application built with OpenLayers to visualize travel routes 
 
 
 🚀 Features
+
 Animated Travel Routes: Experience real-time animations of travel paths with smooth, curved arcs.
 Dynamic Map Layers: Toggle between different map views and layers for customized visualization.
 Interactive Controls: User-friendly interface with simple controls for an enhanced experience.
@@ -15,13 +16,16 @@ Santander Bike Stations Layer: Integration of real-time data to display bike sta
 Expanded Destinations: Adding more cities and international routes to broaden the scope.
 
 🛠️ Getting Started
+
 Follow these instructions to get a copy of the project up and running on your local machine.
 
 📋 Prerequisites
+
 Node.js and npm installed on your machine.
 A modern web browser (e.g., Chrome, Firefox, Edge, Safari).
 
 📦 Installation
+
 1.Clone the Repository: git clone https://github.com/RohithSrinivasm/openlayers-travel-visualization.git
 
 2.Navigate to the Project Directory: cd openlayers-travel-visualization
@@ -33,16 +37,19 @@ A modern web browser (e.g., Chrome, Firefox, Edge, Safari).
 5.Open in Browser: Visit http://localhost:{port} to view the application.
 
 🖥️ Usage
+
 Toggle Layers: Use the on-screen controls to switch between the base map and animated travel routes.
 Interact with the Map: Pan and zoom to explore different areas. Click on routes for more information (if implemented).
 Responsive Experience: The application adjusts seamlessly to different screen sizes.
 
 💻 Built With
+
 OpenLayers - A powerful open-source JavaScript library for displaying map data.
 HTML5, CSS3, JavaScript - Core web technologies for structure, styling, and interactivity.
 Node.js and npm - For managing dependencies and running the development server.
 
 📚 Project Structure
+
 index.html: The main HTML file.
 style.css: Stylesheet for styling the application.
 main.js: JavaScript file containing the application logic.
