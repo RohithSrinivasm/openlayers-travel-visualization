@@ -4,7 +4,7 @@ An interactive web application built with OpenLayers to visualize travel routes 
 ![ScreenRecording2024-10-20at20 25 58-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4590296c-786f-4878-b8d7-82f704e067a9)
 
 
-🚀 Features
+## 🚀 Features
 
 Animated Travel Routes: Experience real-time animations of travel paths with smooth, curved arcs.
 Dynamic Map Layers: Toggle between different map views and layers for customized visualization.
@@ -15,16 +15,16 @@ Extensible Architecture: Built with scalability in mind to accommodate future fe
 Santander Bike Stations Layer: Integration of real-time data to display bike station locations across London.
 Expanded Destinations: Adding more cities and international routes to broaden the scope.
 
-🛠️ Getting Started
+## 🛠️ Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine.
 
-📋 Prerequisites
+## 📋 Prerequisites
 
 Node.js and npm installed on your machine.
 A modern web browser (e.g., Chrome, Firefox, Edge, Safari).
 
-📦 Installation
+## 📦 Installation
 
 1.Clone the Repository: git clone https://github.com/RohithSrinivasm/openlayers-travel-visualization.git
 
@@ -36,19 +36,19 @@ A modern web browser (e.g., Chrome, Firefox, Edge, Safari).
 
 5.Open in Browser: Visit http://localhost:{port} to view the application.
 
-🖥️ Usage
+## 🖥️ Usage
 
 Toggle Layers: Use the on-screen controls to switch between the base map and animated travel routes.
 Interact with the Map: Pan and zoom to explore different areas. Click on routes for more information (if implemented).
 Responsive Experience: The application adjusts seamlessly to different screen sizes.
 
-💻 Built With
+## 💻 Built With
 
 OpenLayers - A powerful open-source JavaScript library for displaying map data.
 HTML5, CSS3, JavaScript - Core web technologies for structure, styling, and interactivity.
 Node.js and npm - For managing dependencies and running the development server.
 
-📚 Project Structure
+## 📚 Project Structure
 
 index.html: The main HTML file.
 style.css: Stylesheet for styling the application.
